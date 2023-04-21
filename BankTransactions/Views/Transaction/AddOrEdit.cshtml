@@ -7,12 +7,14 @@
 
 <div class="row">
     <div class="col-md-6 offset-md-3">
-
         <h1>Transaction</h1>
         <hr />
         <!-- Set autocomplet form to off. -->
         <form asp-action="AddOrEdit" autocomplete="off">
             <div asp-validation-summary="ModelOnly" class="text-danger">            </div>
+            <input type="hidden"asp-for="TransactionId" />
+            <input type="hidden" asp-for="Date" />
+
             <div class="form-group">
                 <label asp-for="AccountNumber" class="control-label"></label>
                 <input asp-for="AccountNumber" class="form-control" />

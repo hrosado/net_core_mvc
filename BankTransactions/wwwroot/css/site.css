@@ -16,3 +16,12 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+/* Update button and label text to UPPERCASE */
+.form-group input[type=submit], .form-group label {
+    text-transform: uppercase;
+}
+
+.form-group label{
+    color: green;
+}
