@@ -16,12 +16,6 @@
             <th>
                 @Html.DisplayNameFor(model => model.BeneficiaryName)
             </th>
-@*            <th>
-                @Html.DisplayNameFor(model => model.BankName)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.SWIFTCode)
-            </th>*@
             <th>
                 @Html.DisplayNameFor(model => model.Date)
             </th>
@@ -41,12 +35,6 @@
             <td>
                 @Html.DisplayFor(modelItem => item.BeneficiaryName)
             </td>
-@*            <td>
-                @Html.DisplayFor(modelItem => item.BankName)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.SWIFTCode)
-            </td>*@
                 <td>
                     @Html.DisplayFor(modelItem => item.Date)
                 </td>
@@ -58,8 +46,7 @@
                 <a asp-action="AddOrEdit" asp-route-id="@item.TransactionId" class="btn btn-warning">
                     <i class="fa-solid fa-pen-to-square"></i>
                 </a> |
-@*                <a asp-action="Details" asp-route-id="@item.TransactionId">Details</a> |
-*@                <a asp-action="Delete" asp-route-id="@item.TransactionId">Delete</a>
+                <a asp-action="Delete" asp-route-id="@item.TransactionId">Delete</a>
             </td>
         </tr>
 }
