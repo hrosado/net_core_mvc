@@ -63,6 +63,8 @@ C:\Users\hommy\Documents\Repos\net_core_mvc\Expense_Tracker\bin\Debug\net6.0\NuG
 C:\Users\hommy\Documents\Repos\net_core_mvc\Expense_Tracker\bin\Debug\net6.0\NuGet.ProjectModel.dll
 C:\Users\hommy\Documents\Repos\net_core_mvc\Expense_Tracker\bin\Debug\net6.0\NuGet.Protocol.dll
 C:\Users\hommy\Documents\Repos\net_core_mvc\Expense_Tracker\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\hommy\Documents\Repos\net_core_mvc\Expense_Tracker\bin\Debug\net6.0\Syncfusion.EJ2.dll
+C:\Users\hommy\Documents\Repos\net_core_mvc\Expense_Tracker\bin\Debug\net6.0\Syncfusion.Licensing.dll
 C:\Users\hommy\Documents\Repos\net_core_mvc\Expense_Tracker\bin\Debug\net6.0\System.Composition.AttributedModel.dll
 C:\Users\hommy\Documents\Repos\net_core_mvc\Expense_Tracker\bin\Debug\net6.0\System.Composition.Convention.dll
 C:\Users\hommy\Documents\Repos\net_core_mvc\Expense_Tracker\bin\Debug\net6.0\System.Composition.Hosting.dll
@@ -250,6 +252,7 @@ C:\Users\hommy\Documents\Repos\net_core_mvc\Expense_Tracker\obj\Debug\net6.0\Exp
 C:\Users\hommy\Documents\Repos\net_core_mvc\Expense_Tracker\obj\Debug\net6.0\Expense_Tracker.AssemblyInfoInputs.cache
 C:\Users\hommy\Documents\Repos\net_core_mvc\Expense_Tracker\obj\Debug\net6.0\Expense_Tracker.AssemblyInfo.cs
 C:\Users\hommy\Documents\Repos\net_core_mvc\Expense_Tracker\obj\Debug\net6.0\Expense_Tracker.csproj.CoreCompileInputs.cache
+C:\Users\hommy\Documents\Repos\net_core_mvc\Expense_Tracker\obj\Debug\net6.0\Expense_Tracker.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\hommy\Documents\Repos\net_core_mvc\Expense_Tracker\obj\Debug\net6.0\Expense_Tracker.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\hommy\Documents\Repos\net_core_mvc\Expense_Tracker\obj\Debug\net6.0\Expense_Tracker.RazorAssemblyInfo.cache
 C:\Users\hommy\Documents\Repos\net_core_mvc\Expense_Tracker\obj\Debug\net6.0\Expense_Tracker.RazorAssemblyInfo.cs
